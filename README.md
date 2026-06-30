@@ -16,9 +16,21 @@ Powered by Deep Learning • ResNet50 • Production-Ready
 
 [🚀 Quick Start](#-quick-start) • [📚 Key Features](#-key-features) • [🏗️ Architecture](#-system-architecture) • [🤖 AI Model](#-deep-learning-model)
 
+---
+
+## 🌐 Live Demo
+
+<div style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">
+
+[![HuggingFace Spaces](https://img.shields.io/badge/🤗%20HuggingFace%20Spaces-Run%20Demo-blue?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/Shriom/SmartDoc-AI)
+
+### ⚡ Try it Live: [SmartDoc AI on HuggingFace Spaces](https://huggingface.co/spaces/Shriom/SmartDoc-AI)
+
 </div>
 
 ---
+
+</div>
 
 ## 📋 Table of Contents
 
@@ -40,7 +52,7 @@ Powered by Deep Learning • ResNet50 • Production-Ready
 
 ## 🎯 Overview
 
-**SmartDoc AI** is a production-grade **Intelligent Document Processing (IDP)** application that automates the classification, extraction, and storage of documents using state-of-the-art Deep Learning.
+**SmartDoc AI** is a production-grade **Intelligent Document Processing (IDP)** application that automates the classification, extraction, and storage of documents using state-of-the-art Deep Lear[...]
 
 ### The Problem
 
