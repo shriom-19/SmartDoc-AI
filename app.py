@@ -282,7 +282,3 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
-
-if __name__== '__main__':
-    app.run(host="0.0.0.0", debug=True)
-    
